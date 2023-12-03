@@ -6,7 +6,7 @@
 -      SQL
 -      QGIS
 - 💞️ I’m looking to collaborate on
--    open source projects.
+-      open source projects.
 - 📫 How to reach me
 -     [linkedin]=www.linkedin.com/in/zahra-ammar-4a7160a6
 
